@@ -1,2 +1,0 @@
-# XChatGPT
-X
